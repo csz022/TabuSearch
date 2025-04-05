@@ -27,3 +27,4 @@
 4.執行方式
     (1)編譯：使用 g++ test2.cpp -o test
     (2)執行：./test
+5.GitHub連結：https://github.com/csz022/TabuSearch
